@@ -1,0 +1,9 @@
+body{
+  background: teal;
+}
+
+/* my name*/
+/* selector, property, value */
+h1 {
+ color : orange;
+}
